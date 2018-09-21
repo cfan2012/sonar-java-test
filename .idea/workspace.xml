@@ -2,183 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e608e917-c4e2-4d30-ba1d-ceab5246790a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/com.llr.test-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sonar/.sonar_lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/sonar/report-task.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compression/bin/HEncoder$Node$Nodecomparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compression/bin/HEncoder$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compression/bin/HEncoder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compression/bin/compressclient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compression/bin/genericheap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compression/src/HEncoder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compression/src/compressclient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compression/src/genericheap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/AnyBaseToAnyBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/AnyBaseToDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/AnytoAny.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/BinaryToDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/BinaryToHexadecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/BinaryToOctal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/DecimalToAnyBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/DecimalToBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/DecimalToHexaDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/DecimalToOctal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/HexToOct.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/HexaDecimalToBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/HexaDecimalToDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/OctalToBinary.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/OctalToDecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Conversions/OctalToHexadecimal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Bags/Bag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Buffers/CircularBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/CSVFile/src/CSVFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/CSVFile/src/TestCSVFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/CSVFile/testData.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/CSVFile/testData2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/CSVFile/testData3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/CSVFile/testData4.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/BFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/BellmanFord.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/ConnectedComponent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/DFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/FloydWarshall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/Graphs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/KruskalsAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/MatrixGraphs.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Graphs/PrimMST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/HashMap/Hashing/HashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/HashMap/Hashing/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/HashMap/Hashing/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/HashMap/Hashing/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Heaps/EmptyHeapException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Heaps/Heap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Heaps/HeapElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Heaps/MaxHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Heaps/MinHeap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Lists/CircleLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Lists/DoublyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Lists/SinglyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Matrix/Matrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Matrix/MatrixFastPower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Queues/GenericArrayListQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Queues/PriorityQueues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Queues/Queues.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Stacks/BalancedBrackets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Stacks/NodeStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Stacks/StackOfLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Stacks/Stacks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/AVLTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/FindHeightOfTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/GenericTree.Java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/LevelOrderTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/LevelOrderTraversalQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/PrintTopViewofTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/RedBlackBST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/TreeTraversal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/TrieImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructures/Trees/ValidBSTOrNot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/CoinChange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/Edit_Distance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/EggDropping.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/KadaneAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/Knapsack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/LevenshteinDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/LongestCommonSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/LongestIncreasingSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dynamic Programming/RodCutting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinimizingLateness/MinimizingLateness.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinimizingLateness/data06_lateness.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Misc/PalindromicPrime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Misc/heap_sort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Abecedarian.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Armstrong.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/BrianKernighanAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/CountChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Dijkshtra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Factorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/FibToN.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/FloydTriangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/GCD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/GuassLengendre.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Huffman.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/InsertDeleteInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/KMP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/LinearCongruentialGenerator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/LowestBasePalindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/PasswordGen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/PerlinNoise.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/PowerOfTwoOrNot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/QueueUsingTwoStacks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/ReturnSubsequence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/ReverseStackUsingRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/ReverseString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/RootPrecision.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/SieveOfEratosthenes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/SkylineProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/StackPostfixNotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/TopKWords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/TowerOfHanoiUsingRecursion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/countwords.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/crc32.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/krishnamurthy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Others/removeDuplicateFromString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searches/src/search/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searches/src/search/InterpolationSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searches/src/search/IterativeBinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searches/src/search/IterativeTernarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searches/src/search/LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searches/src/search/SaddlebackSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searches/src/search/SearchAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Searches/src/search/TernarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SkylineProblem/SkylineProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/BinaryTreeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/BogoSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/CocktailShakerSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/CombSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/CountingSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/CycleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/GnomeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/HeapSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/InsertionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/PancakeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/RadixSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/ShellSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/SortAlgorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorts/src/sort/SortUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ciphers/AES.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ciphers/AESEncryption.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ciphers/Caesar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ciphers/ColumnarTranspositionCipher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ciphers/RSA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ciphers/Vigenere.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/divideconquer/ClosestPair.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloworld/helloworld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helloworld/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scripts/sonar_run.sh" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -205,14 +33,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradlew" value="1" />
-          <entry key="java" value="2" />
-          <entry key="sh" value="1" />
+          <entry key="java" value="3" />
+          <entry key="sh" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Bash" value="2" />
-          <entry key="JAVA" value="2" />
+          <entry key="Bash" value="3" />
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sh" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -220,10 +58,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Builder.java">
+        <entry file="file://$PROJECT_DIR$/scripts/sonar_run.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+            <state relative-caret-position="18">
+              <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -249,14 +87,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="com.llr.test" />
+              <option name="name" value="java" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="com.llr.test" />
+                <option name="name" value="java" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -270,34 +108,34 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'com.llr.test'. [incubating]" />
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'java'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'com.llr.test'." />
+                <option name="description" value="Displays the sub-projects of root project 'java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'com.llr.test'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'java'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'com.llr.test'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files." />
@@ -305,89 +143,9 @@
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'com.llr.test'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'com.llr.test'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="init" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Analyzes root project 'com.llr.test' and its subprojects with SonarQube." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="sonarqube" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'com.llr.test'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileTestJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'com.llr.test'." />
+                <option name="description" value="Displays all dependencies declared in root project 'java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
@@ -395,19 +153,19 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
+                <option name="description" value="Displays the configuration model of root project 'java'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="build" />
+                <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'com.llr.test'." />
+                <option name="description" value="Displays the properties of root project 'java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -432,21 +190,13 @@
                   <entry key="$PROJECT_DIR$">
                     <value>
                       <ExternalModuleBuildClasspathPojo>
-                        <option name="entries">
-                          <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin/2.6/ce7913e7abb78ae57e734dd82c6ef48958588958/sonarqube-gradle-plugin-2.6-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonarsource.scanner.api/sonar-scanner-api/2.9.0.887/69430444f5bc97cbe124646bd24c581ea3c9b2cf/sonar-scanner-api-2.9.0.887-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonarsource.scanner.gradle/sonarqube-gradle-plugin/2.6/e06ebaa52ea0c1e7fe585d82a923008e8e91676a/sonarqube-gradle-plugin-2.6.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.sonarsource.scanner.api/sonar-scanner-api/2.9.0.887/daf561ff8b9d3f83bbd2080c44083147426dc9ae/sonar-scanner-api-2.9.0.887.jar" />
-                          </list>
-                        </option>
                         <option name="path" value="$PROJECT_DIR$" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
                 </map>
               </option>
-              <option name="name" value="com.llr.test" />
+              <option name="name" value="java" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
@@ -555,6 +305,13 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/sonar_run.sh" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -595,37 +352,7 @@
             <path>
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javacpp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javacpp" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -638,6 +365,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537500945677" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -776,12 +504,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537500441079</updated>
-      <workItem from="1537500444075" duration="260000" />
+      <workItem from="1537500444075" duration="404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260000" />
+    <option name="totallyTimeSpent" value="404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -795,9 +523,10 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.3293124" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3293124" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.35946923" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.21351026" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -844,10 +573,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/BuildMojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Builder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="66" column="13" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sonar_run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
         </state>
       </provider>
     </entry>
