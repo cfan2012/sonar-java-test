@@ -1,6 +1,0 @@
-projectKey=com.llr.test:com.llr.test
-serverUrl=https://tdpsonar.api.thoughtworks.net
-serverVersion=7.1.0.11001
-dashboardUrl=https://tdpsonar.api.thoughtworks.net/dashboard/index/com.llr.test:com.llr.test
-ceTaskId=AWX59yRVqdLB1054x8zn
-ceTaskUrl=https://tdpsonar.api.thoughtworks.net/api/ce/task?id=AWX59yRVqdLB1054x8zn
