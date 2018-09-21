@@ -2,7 +2,224 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e608e917-c4e2-4d30-ba1d-ceab5246790a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/scripts/sonar_run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/sonar_run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/java_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/java_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/android-arm-clang.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/android-arm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/android-arm64-clang.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/android-arm64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/android-x86-clang.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/android-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/android-x86_64-clang.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/android-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/generic.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/ios-arm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/ios-arm64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/ios-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/ios-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-arm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-arm64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-armhf.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-ppc64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-ppc64le-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-ppc64le.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-x86-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-x86_64-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/linux-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/macosx-x86-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/macosx-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/macosx-x86_64-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/macosx-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/windows-x86-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/windows-x86-mingw.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/windows-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/windows-x86_64-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/windows-x86_64-mingw.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/org/bytedeco/javacpp/properties/windows-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assembly/bin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/assembly/src.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/BoolPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/BytePointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/CLongPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/CharPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/ClassProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/DoublePointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/FloatPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/FunctionPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/IntPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/LoadEnabled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/Loader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/LongPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/Pointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/PointerPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/PointerScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/ShortPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/SizeTPointer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Allocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/ArrayAllocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/ByPtr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/ByPtrPtr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/ByPtrRef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/ByRef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/ByVal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Cast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Const.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Convention.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/CriticalRegion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Function.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Index.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/MemberGetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/MemberSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Name.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Namespace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/NoDeallocator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/NoException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/NoOffset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Opaque.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Platform.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Properties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Raw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/SharedPtr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/StdString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/StdVector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/StdWString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/UniquePtr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/ValueGetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/ValueSetter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/Virtual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/annotation/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ByteArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ByteBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ByteIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ByteRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/CharArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/CharBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/CharIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/CharRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/DoubleArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/DoubleBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/DoubleIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/DoubleRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/FloatArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/FloatBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/FloatIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/FloatRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/HalfArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/HalfBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/HalfIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/HalfRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/Indexable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/Indexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/IntArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/IntBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/IntIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/IntRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/LongArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/LongBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/LongIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/LongRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/Raw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ReverseUnsafeRaw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ShortArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ShortBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ShortIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/ShortRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UByteArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UByteBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UByteIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UByteRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UShortArrayIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UShortBufferIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UShortIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UShortRawIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/UnsafeRaw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/indexer/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/AdapterInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Attribute.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/BuildEnabled.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/BuildMojo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Builder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/ClassScanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Context.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Declaration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/DeclarationList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Declarator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/EncodingFileWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Generator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/IndexedSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/InfoMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/InfoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/MethodInformation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Parameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/ParserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Slf4jLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/TemplateMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/TokenIndexer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Tokenizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/Type.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/UserClassLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/bytedeco/javacpp/tools/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/android-arm-clang.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/android-arm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/android-arm64-clang.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/android-arm64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/android-x86-clang.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/android-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/android-x86_64-clang.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/android-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/generic.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/ios-arm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/ios-arm64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/ios-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/ios-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-arm.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-arm64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-armhf.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-ppc64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-ppc64le-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-ppc64le.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-x86-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-x86_64-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/linux-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/macosx-x86-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/macosx-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/macosx-x86_64-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/macosx-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/windows-x86-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/windows-x86-mingw.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/windows-x86.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/windows-x86_64-cuda.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/windows-x86_64-mingw.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/bytedeco/javacpp/properties/windows-x86_64.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bytedeco/javacpp/AdapterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bytedeco/javacpp/BuilderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bytedeco/javacpp/EnumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bytedeco/javacpp/IndexerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/bytedeco/javacpp/PointerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/org/bytedeco/javacpp/AdapterTest.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/org/bytedeco/javacpp/EnumTest.h" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -28,6 +245,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gradle" value="1" />
           <entry key="gradlew" value="1" />
           <entry key="java" value="3" />
           <entry key="sh" value="2" />
@@ -36,6 +254,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Bash" value="3" />
+          <entry key="Groovy" value="1" />
           <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
@@ -57,7 +276,16 @@
         <entry file="file://$PROJECT_DIR$/scripts/sonar_run.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="75" lean-forward="true" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+              <caret line="1" column="87" lean-forward="true" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -70,12 +298,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="4.8" />
+        <entry key="$PROJECT_DIR$" value="4.5" />
       </map>
     </option>
     <option name="availableProjects">
@@ -104,19 +332,24 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="init" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by root project 'java'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of root project 'java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in root project 'java'. [incubating]" />
@@ -129,24 +362,24 @@
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'java'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Generates Gradle wrapper files." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'java'." />
+                <option name="description" value="Assembles test classes." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencies" />
+                <option name="name" value="testClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="help" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the configuration model of root project 'java'. [incubating]" />
@@ -154,14 +387,84 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'java'." />
+                <option name="description" value="Processes main resources." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="properties" />
+                <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from root project 'java'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -170,9 +473,10 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="4590076686000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1062132781" />
-        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3321790001" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1890704469" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="502884962" />
       </map>
     </option>
@@ -195,83 +499,80 @@
               <option name="name" value="java" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-resources-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-api-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-1.9.11.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-docs-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-cli-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-launcher-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-messaging-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/groovy-all-2.4.12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-option-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-core-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-model-core-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-process-services-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-logging-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.8-bin/divx0s2uj4thofgytb7gf9fsi/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-wrapper-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-logging-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-runtime-api-info-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-build-cache-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-tooling-builders-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-process-services-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-installation-beacon-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-base-services-groovy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-model-core-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/ant-launcher-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-core-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-base-services-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-build-option-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-messaging-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-jvm-services-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-launcher-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-cli-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-docs-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-persistent-cache-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-tooling-models-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-core-api-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-tooling-api-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-resources-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-model-groovy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-scala-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-play-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-tooling-api-builders-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-announce-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugin-use-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-jacoco-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugins-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-comparison-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-version-control-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-javascript-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-cache-http-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-workers-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugin-development-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-diagnostics-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-base-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-jvm-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ear-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-publish-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-composite-builds-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-dependency-management-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-scala-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-http-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-play-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-gcs-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-antlr-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-reporting-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-osgi-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-groovy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-java-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-test-kit-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ivy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-sftp-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-signing-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-s3-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-code-quality-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-maven-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-jvm-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-base-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-jvm-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-init-4.5.jar" />
                 </list>
               </option>
             </ExternalProjectBuildClasspathPojo>
@@ -293,6 +594,7 @@
         <entry key="$PROJECT_DIR$/../TWU-Dojos/refactory1/Refactoring-2(NumberCruncher)" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../TWU-Dojos/refactory1/Refactoring-3" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../football_game" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../mars_rover" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../soft-service/wuhan-learning-goods-service" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../soft-service/wuhan-learning-order-service" value="PREVIEW" />
@@ -345,11 +647,6 @@
               <item name="java" type="b2602c69:ProjectViewProjectNode" />
               <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -361,7 +658,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537501107127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537501681301" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -500,12 +797,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537500441079</updated>
-      <workItem from="1537500444075" duration="527000" />
+      <workItem from="1537500444075" duration="917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="527000" />
+    <option name="totallyTimeSpent" value="917000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -516,10 +813,10 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16452074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.3293124" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.35946923" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.35946923" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.21351026" />
@@ -583,10 +880,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/sonar_run.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="75" lean-forward="true" selection-start-line="1" selection-start-column="75" selection-end-line="1" selection-end-column="75" />
+          <caret line="1" column="87" lean-forward="true" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
         </state>
       </provider>
     </entry>
